@@ -1,16 +1,26 @@
-### Hi there 👋
+## devjoshua312 Readme
 
-<!--
-**devjoshua312/devjoshua312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my GitHub profile!** 
 
-Here are some ideas to get you started:
+I'm Joshua, a passionate software developer from Hyderabad, India. I'm currently focused on [mention your primary area of expertise or current interests], but I'm always eager to learn and explore new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What you'll find here:**
+
+* **Public repositories:** This is where I share my open-source projects, personal experiments, and learning resources. Feel free to browse, fork, and contribute!
+* **Contributions:** I actively contribute to existing projects on GitHub. You can find a list of my contributions on my profile page.
+
+**Here are some of my skills and interests:**
+
+* Java/Flutter (Android, iOS, Mac and Windows)
+* I'm just good with computers 🤓
+* I work mainly with Python, using it for a range of tasks such as ML Training, DataVisualization and WebDev.
+* Open-Source 
+
+**Currently working on:**
+
+* [FET(Check out the readme for more info)](https://github.com/devjoshua312/Finance-Entry-Tool-flask)
+
+
+
+Thanks for stopping by! 
+
