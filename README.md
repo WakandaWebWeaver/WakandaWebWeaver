@@ -2,7 +2,8 @@
 
 **Welcome to my GitHub profile!** 
 
-I'm Joshua, a passionate software developer from Hyderabad, India. I'm currently focused on [mention your primary area of expertise or current interests], but I'm always eager to learn and explore new technologies.
+I'm Joshua, a passionate software developer from Hyderabad, India. I'm always eager to learn and explore new technologies.
+
 
 **What you'll find here:**
 
