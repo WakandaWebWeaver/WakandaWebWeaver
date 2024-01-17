@@ -24,6 +24,9 @@ I'm Joshua, a passionate software developer from Hyderabad, India. I'm always ea
 
 
 
+[![Esvin Joshua's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devjoshua312&theme=react-dark)](https://github.com/devjoshua312/github-readme-activity-graph)
+
+
 >When you're done checking everything out, <br>
 [BuyMeACoffee](https://www.buymeacoffee.com/joshuaesvin)
 
