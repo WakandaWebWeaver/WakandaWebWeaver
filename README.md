@@ -8,14 +8,14 @@ I'm Joshua, a passionate software developer from Hyderabad, India. I'm always ea
 **What you'll find here:**
 
 * **Public repositories:** This is where I share my open-source projects, personal experiments, and learning resources. Feel free to browse, fork, and contribute!
-* **Contributions:** I actively contribute to existing projects on GitHub. You can find a list of my contributions on my profile page.
 
 **Here are some of my skills and interests:**
 
 * Java/Flutter (Android, iOS, Mac and Windows)
 * I'm just good with computers 🤓
 * I work mainly with Python, using it for a range of tasks such as ML Training, DataVisualization and WebDev.
-* Open-Source 
+* Full-Stack Development
+* Open-Source
 
 **Currently working on:**
 
@@ -23,14 +23,11 @@ I'm Joshua, a passionate software developer from Hyderabad, India. I'm always ea
 * [ChatBot](https://github.com/devjoshua312/Chatbot-using-TensorFlow-and-Custom-Wikipedia-Scraped-Dataset)
 
 
-
 [![Esvin Joshua's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devjoshua312&theme=react-dark)](https://github.com/devjoshua312/github-readme-activity-graph)
 
 
->When you're done checking everything out, <br>
+>When you're done checking everything out <br>
 [BuyMeACoffee](https://www.buymeacoffee.com/joshuaesvin)
 
 
-
-Thanks for stopping by! 
-
+Thanks for stopping by!
