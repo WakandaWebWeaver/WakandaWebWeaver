@@ -23,7 +23,7 @@ I'm Joshua, a passionate software developer from Hyderabad, India. I'm always ea
 * [ChatBot](https://github.com/devjoshua312/Chatbot-using-TensorFlow-and-Custom-Wikipedia-Scraped-Dataset)
 
 
-[![Esvin Joshua's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devjoshua312&theme=react-dark)](https://github.com/devjoshua312/github-readme-activity-graph)
+[![Esvin Joshua's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devjoshua312&theme=xcode)](https://github.com/devjoshua312/github-readme-activity-graph)
 
 
 >When you're done checking everything out <br>
