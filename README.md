@@ -19,7 +19,7 @@ I'm Joshua, a passionate software developer from Hyderabad, India. I'm always ea
 
 **Currently working on:**
 
-* [FET(Check out the readme for more info)](https://github.com/devjoshua312/Finance-Entry-Tool-flask)
+* [OrgManTool(Check out the readme for more info)](https://github.com/devjoshua312/Organisation-Management-Tool)
 * [ChatBot](https://github.com/devjoshua312/Chatbot-using-TensorFlow-and-Custom-Wikipedia-Scraped-Dataset)
 
 
