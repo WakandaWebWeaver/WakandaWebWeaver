@@ -1,4 +1,4 @@
-## devjoshua312 Readme
+## WakandaWebWeaver Readme
 
 **Welcome to my GitHub profile!**
 
@@ -19,12 +19,11 @@ I'm Joshua, a passionate software developer from Hyderabad, India. I'm always ea
 
 **Currently working on:**
 
-- [OrgManTool(Check out the readme for more info)](https://github.com/devjoshua312/Organisation-Management-Tool)
-- [ChatBot](https://github.com/devjoshua312/Chatbot-using-TensorFlow-and-Custom-Wikipedia-Scraped-Dataset)
+- [OrgManTool(Check out the readme for more info)](https://github.com/wakandawebweaver/Organisation-Management-Tool)
+- [ChatBot](https://github.com/wakandawebweaver/Chatbot-using-TensorFlow-and-Custom-Wikipedia-Scraped-Dataset)
 
-[![Esvin Joshua's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devjoshua312&theme=xcode)](https://github.com/devjoshua312/github-readme-activity-graph)
+[![Esvin Joshua's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=wakandawebweaver&theme=xcode)](https://github.com/wakandawebweaver/github-readme-activity-graph)
 
-> When you're done checking everything out <br>
-> [BuyMeACoffee](https://www.buymeacoffee.com/joshuaesvin)
+> When you're done checking everything out <br> > [BuyMeACoffee](https://www.buymeacoffee.com/joshuaesvin)
 
 Thanks for stopping by!
