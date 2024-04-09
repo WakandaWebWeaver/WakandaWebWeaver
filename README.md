@@ -1,5 +1,7 @@
 ## WakandaWebWeaver Readme
 
+> Currently not working on any projects.
+
 **Welcome to my GitHub profile!**
 
 I'm Joshua, a passionate software developer from Hyderabad, India. I'm always eager to learn and explore new technologies.
