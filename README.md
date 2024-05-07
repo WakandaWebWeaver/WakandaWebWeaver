@@ -20,7 +20,6 @@ I'm Joshua, a passionate software developer from Hyderabad, India. I'm always ea
 
 **Currently working on:**
 
-- [HiveMind - Student Server](https://github.com/WakandaWebWeaver/hivemind)
 - [OrgManTool(Check out the readme for more info)](https://github.com/wakandawebweaver/Organisation-Management-Tool)
 - [ChatBot](https://github.com/wakandawebweaver/Chatbot-using-TensorFlow-and-Custom-Wikipedia-Scraped-Dataset)
 
