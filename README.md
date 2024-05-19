@@ -20,8 +20,7 @@ I'm Joshua, a passionate software developer from Hyderabad, India. I'm always ea
 
 **Currently working on:**
 
-- [OrgManTool(Check out the readme for more info)](https://github.com/wakandawebweaver/Organisation-Management-Tool)
-- [ChatBot](https://github.com/wakandawebweaver/Chatbot-using-TensorFlow-and-Custom-Wikipedia-Scraped-Dataset)
+- [HiveMind (Check out the readme for more info)](https://github.com/WakandaWebWeaver/hivemind)
 
 [![Esvin Joshua's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=wakandawebweaver&theme=xcode)](https://github.com/wakandawebweaver/github-readme-activity-graph)
 
