@@ -2,7 +2,7 @@
 
 **Welcome to my GitHub profile!**
 
-I'm Joshua, a passionate software developer from Hyderabad, India. I'm always eager to learn and explore new technologies.
+I'm Joshua, a Software Student from Hyderabad, India. I'm always eager to learn and explore new technologies.
 
 **What you'll find here:**
 
