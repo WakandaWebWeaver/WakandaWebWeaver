@@ -48,7 +48,7 @@ I'm Joshua, a passionate software developer from Hyderabad, India. I'm always ea
 
 ## Thanks for stopping by! 😄
 
-<iframe src="https://giphy.com/embed/3orif3j4dRfClbz18k" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+[![bow gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh2djlxaWJ0Y3psOXFiZ2w4eGFjMWo1aGppYmk5OHNnYzdpcnRrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orif3j4dRfClbz18k/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh2djlxaWJ0Y3psOXFiZ2w4eGFjMWo1aGppYmk5OHNnYzdpcnRrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orif3j4dRfClbz18k/giphy.gif)
 
 > If you like my work, please consider giving it a ⭐️. It helps a lot! 😊
 > [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/joshuaesvin)
