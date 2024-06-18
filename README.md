@@ -29,6 +29,25 @@ I'm Joshua, a passionate software developer from Hyderabad, India. I'm always ea
 [![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black)](https://www.learn-c.org/)
 [![Web Development](https://img.shields.io/badge/Web_Development-%23000000.svg?&style=for-the-badge&logo=web&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn)
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
+[![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
+[![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black)](https://www.linux.org/)
+[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=black)](https://firebase.google.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org/index.html)
+[![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white)](https://www.heroku.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?&style=for-the-badge&logo=Netlify&logoColor=white)](https://www.netlify.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+## My Projects 💼
+
+- [**Org Tool**](https://github.com/WakandaWebWeaver/Organisation-Management-Tool) - A web application for managing organisations.
+
+- [**HiveMind**](https://github.com/WakandaWebWeaver/hivemind) - A social media platform for students.
+
+- [**Bank Management System**](https://github.com/WakandaWebWeaver/Bank-Management-System) - A simple bank management system built in C.
 
 ## GitHub Stats 📈
 
@@ -48,7 +67,7 @@ I'm Joshua, a passionate software developer from Hyderabad, India. I'm always ea
 
 ## Thanks for stopping by! 😄
 
-[![bow gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh2djlxaWJ0Y3psOXFiZ2w4eGFjMWo1aGppYmk5OHNnYzdpcnRrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orif3j4dRfClbz18k/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh2djlxaWJ0Y3psOXFiZ2w4eGFjMWo1aGppYmk5OHNnYzdpcnRrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orif3j4dRfClbz18k/giphy.gif)
+<iframe src="https://giphy.com/embed/3orif3j4dRfClbz18k" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 > If you like my work, please consider giving it a ⭐️. It helps a lot! 😊
 > [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/joshuaesvin)
