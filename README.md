@@ -61,7 +61,7 @@ I'm Joshua, a passionate software developer from Hyderabad, India. I'm always ea
 
 ## Connect with me 🌐
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=black)](https://www.instagram.com/__esvinj_._)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=black)](https://www.instagram.com/esvinjoshua)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/esvin-joshua-a84215291/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:Joshua.Esvin312@gmail.com)
 
