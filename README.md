@@ -1,6 +1,8 @@
 ## WakandaWebWeaver Readme
 
-**Not all those who wander are lost.**
+> _Not all those who wander are lost._
+
+> Currently engaged in: Exams 📚
 
 ## Hi there! 👋
 
