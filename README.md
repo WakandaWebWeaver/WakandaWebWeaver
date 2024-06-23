@@ -65,11 +65,11 @@
 
 [![Esvin Joshua's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=wakandawebweaver&theme=xcode)](https://github.com/wakandawebweaver/github-readme-activity-graph)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakandawebweaver&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakandawebweaver&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=wakandawebweaver&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wakandawebweaver&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wakandawebweaver&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=wakandawebweaver&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wakandawebweaver&theme=discord&column=4&margin-w=15&margin-h=15)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wakandawebweaver&theme=discord&column=4&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=wakandawebweaver&theme=discord&column=4&margin-w=15&margin-h=15)
 
 ## Connect with me 🌐
 
