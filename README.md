@@ -1,4 +1,6 @@
-# Esvin Joshua <img src="https://readme-typing-svg.demolab.com/?lines=Developer;Musician;Student&size=27&width=500&height=50" />
+# Esvin Joshua
+
+ <img src="https://readme-typing-svg.demolab.com/?lines=Developer;Musician;Student&size=27&width=500&height=50" />
 
 ## Hi there! 👋 Find out about me below 👇
 
