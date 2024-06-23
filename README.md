@@ -58,8 +58,8 @@
 ## My Projects 💼
 
 [![Org Tool](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=Organisation-Management-Tool&theme=radical)](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=Organisation-Management-Tool&theme=radical)
-[![Bank Management System](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=Bank-Management-System&theme=radical)](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=Bank-Management-System&theme=radical)
 [![HiveMind](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=HiveMind&theme=radical)](https://github-readme-stats.vercel.app/api/pin/?username=wakandaWebWeaver&repo=HiveMind&theme=radical)
+[![Bank Management System](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=Bank-Management-System&theme=radical)](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=Bank-Management-System&theme=radical)
 
 ## GitHub Stats 📈
 
