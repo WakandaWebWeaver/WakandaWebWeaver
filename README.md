@@ -83,4 +83,5 @@
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="350" height="300" alt="cat waving gif" />
 
 > If you like my work, please consider giving it a ⭐️. It helps a lot! 😊
-> [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/joshuaesvin)
+
+<a href="https://www.buymeacoffee.com/joshuaesvin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 200px !important;" ></a>
