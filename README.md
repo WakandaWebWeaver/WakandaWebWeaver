@@ -55,20 +55,18 @@
 
 ## My Projects 💼
 
-[![Org Tool](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=Organisation-Management-Tool&theme=radical)](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=Organisation-Management-Tool&theme=radical)
-[![HiveMind](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=HiveMind&theme=radical)](https://github-readme-stats.vercel.app/api/pin/?username=wakandaWebWeaver&repo=HiveMind&theme=radical)
-[![Nudity Detection](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=nudity_detection&theme=radical)](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=nudity_detection&theme=radical)
-[![Bank Management System](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=Bank-Management-System&theme=radical)](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=Bank-Management-System&theme=radical)
+[![Org Tool](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=Organisation-Management-Tool&theme=vue)](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=Organisation-Management-Tool&theme=vue)
+[![HiveMind](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=HiveMind&theme=vue)](https://github-readme-stats.vercel.app/api/pin/?username=wakandaWebWeaver&repo=HiveMind&theme=vue)
+[![Nudity Detection](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=nudity_detection&theme=vue)](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=nudity_detection&theme=vue)
+[![Bank Management System](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=Bank-Management-System&theme=vue)](https://github-readme-stats.vercel.app/api/pin/?username=wakandawebweaver&repo=Bank-Management-System&theme=vue)
 
 ## GitHub Stats 📈
 
-[![Esvin Joshua's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=wakandawebweaver&theme=xcode)](https://github.com/wakandawebweaver/github-readme-activity-graph)
+[![Profil Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wakandawebweaver&theme=vue&background=1F2337)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wakandawebweaver&theme=vue&background=1F2937)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakandawebweaver&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=wakandawebweaver&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wakandawebweaver&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&background=1F2937&title_color=10B981&text_color=9CA3AF)](https://github-readme-stats.vercel.app/api/top-langs?username=wakandawebweaver&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&background=1F2937&title_color=10B981&text_color=9CA3AF)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wakandawebweaver&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=wakandawebweaver&theme=radical)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wakandawebweaver&theme=discord&column=4&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=wakandawebweaver&theme=discord&column=4&margin-w=15&margin-h=15)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wakandawebweaver&count_private=true&theme=react&border_radius=10&background=1F2937&stroke=000000&ring=10B981&fire=F59E0B&currStreakLabel=E5E7EB&sideNums=10B981&currStreakNum=3B82F6&dates=9CA3AF&sideLabels=F3F4F6)](https://github-readme-streak-stats.herokuapp.com/?user=wakandawebweaver&count_private=true&theme=react&border_radius=10&background=1F2937&stroke=000000&ring=10B981&fire=F59E0B&currStreakLabel=E5E7EB&sideNums=10B981&currStreakNum=3B82F6&dates=9CA3AF&sideLabels=F3F4F6)
 
 ## Connect with me 🌐
 
@@ -79,7 +77,3 @@
 ## Thanks for stopping by! 😄
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="350" height="300" alt="cat waving gif" />
-
-> If you like my work, please consider giving it a ⭐️. It helps a lot! 😊
-
-<a href="https://www.buymeacoffee.com/joshuaesvin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 200px !important;" ></a>
