@@ -1,14 +1,14 @@
 # Esvin Joshua
 
+> "Free Software is about freedom, not price"
+>
+> — Richard Stallman
+
 # <img src="https://readme-typing-svg.demolab.com/?lines=Developer;Student&size=27&width=500&height=50" />
 
 ## About Me 🚀
 
-- I'm currently learning Flutter. 🐦
-- I'm just good with computers. 🤓
-- I work mainly with Python, using it for a range of tasks such as ML, DataVisualization and WebDev. 🐍
-- Full-Stack Development. 🌐
-- I can play the piano and sometimes I make music for myself in my free time. 🎹
+I am currently learning Flutter and have a strong proficiency with computers. My primary focus is on Python, which I use for a variety of tasks including machine learning, data visualization, and web development. I am also experienced in full-stack development. In my free time, I enjoy playing the piano and occasionally composing music. I am a strong advocate for open source and free software, and I am always looking for ways to contribute to the community.
 
 ## Languages 🧩
 
@@ -73,6 +73,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=black)](https://www.instagram.com/esvinjoshua)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/esvin-joshua-a84215291/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:Joshua.Esvin312@gmail.com)
+
+Feel free to reach out for collaborations, open-source projects, or a quick chat!
 
 ## Thanks for stopping by! 😄
 
