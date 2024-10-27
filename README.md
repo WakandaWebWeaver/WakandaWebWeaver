@@ -71,7 +71,7 @@ I am currently learning Flutter and have a strong proficiency with computers. My
 ## Connect with me 🌐
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=black)](https://www.instagram.com/esvinjoshua)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/esvin-joshua-a84215291/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/esvin-joshua/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:Joshua.Esvin312@gmail.com)
 
 Feel free to reach out for collaborations, open-source projects, or a quick chat!
